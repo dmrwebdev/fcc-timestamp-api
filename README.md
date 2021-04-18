@@ -1,2 +1,2 @@
-# fcc-timestamp-api
-A FreeCodeCamp exercise in creating an API that converts the link to a UNIX &amp; UTC timestamp
+
+# [Timestamp Microservice](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
