@@ -1,26 +1,25 @@
 {
-	"name": "fcc-api-projects-boilerplate",
-	"version": "0.0.1",
-	"description": "An FCC Backend Challenge",
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"dependencies": {
-		"cors": "^2.8.0",
-		"dotenv": "^8.2.0",
-		"express": "^4.12.4",
-		"live-server": "^1.2.1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://githost.com/camper/repo.git"
-	},
-	"keywords": [
-		"node",
-		"hyperdev",
-		"express",
-		"freecodecamp"
-	],
-	"license": "MIT"
+  "name": "fcc-timestamp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmrwebdev/fcc-timestamp-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmrwebdev/fcc-timestamp-api/issues"
+  },
+  "homepage": "https://github.com/dmrwebdev/fcc-timestamp-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
 }
